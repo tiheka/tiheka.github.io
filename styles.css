@@ -22,7 +22,7 @@ h2 {
 	font-size: 30px;
 	font-family: verdana, sans-serif;
 	text-transform: uppercase;
-	text-shadow: 2px 3px;
+	text-shadow: 2px 3px #000000;
 }
 /* unvisited link */
 a:link {
