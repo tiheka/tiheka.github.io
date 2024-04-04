@@ -1,6 +1,14 @@
 body{
 	background-color:rgb(128,128,128)
 }
+.header {
+	background-color: #a0a0a0;
+	font-size: 25px;
+}
+.footer {
+	background-color: #606060;
+	font-size: 15px;
+}
 p {
 	color: blue;
 	font-size: 20px;
@@ -42,7 +50,4 @@ a:hover {
 /* selected link */
 a:active {
   color: #400080;
-}
-footer{
-font-size: 15px;
 }
