@@ -1,0 +1,37 @@
+body{
+	background-color:rgb(128,128,128)
+}
+p {
+	color: blue;
+	font-size: 20px;
+	word-spacing: 2px;
+}
+h1 {
+	color: red;
+	font-size: 40px;
+	font-family: verdana, sans-serif;
+	text-transform: uppercase;
+	text-shadow: 2px 4px black;
+}
+/* unvisited link */
+a:link {
+  color: #c00000;
+}
+
+/* visited link */
+a:visited {
+  color: #800040;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0000c0;
+}
+
+/* selected link */
+a:active {
+  color: #400080;
+}
+footer{
+text-size: 15px;
+}
