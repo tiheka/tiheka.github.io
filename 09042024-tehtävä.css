@@ -1,0 +1,16 @@
+
+body {
+    background-color: #111;
+}
+.wrapper-main {
+    width: 900px;
+    margin: 0 auto;
+}
+button {
+    padding: 10px 16px;
+    background-color: #fff;
+    font-size: 20px;
+    font-family: roboto;
+    border-radius: 20px;
+    cursor: pointer;
+}
